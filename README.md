@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://prismatic-profiterole-b5c550.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/single-column-coming-soon-page-using-vuejs-and-tailwind-AvyXZ1Gkfv]
+- Live Site URL: [https://prismatic-profiterole-b5c550.netlify.app/]
 
 ## My process
 
