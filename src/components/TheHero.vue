@@ -16,7 +16,7 @@
                 <div class="flex flex-col items-center">
                     <input v-model="email" label="email-address" placeholder="Your email address..." type="email" required
                         class="xs:mx-0 md:mx-2.5 p-3 border border-primary rounded-full h-12 w-96" />
-                    <p v-if="errorMessage" class="text-red-500">{{ errorMessage }}</p>
+                    <p v-if="errorMessage" class="text-red-500 text-xs">{{ errorMessage }}</p>
                 </div>
                 <button type="submit"
                     class="xs:mx-0 md:mx-2.5 bg-primary rounded-full text-white p-2.5 xs:w-full md:w-40 xs:mt-2 md:mt-0 hover:bg-primary-700 active:bg-primary-700 focus:outline-none focus:ring focus:bg-primary">
